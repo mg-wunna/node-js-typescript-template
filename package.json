@@ -1,0 +1,25 @@
+{
+	"name": "node-js-typescript-template",
+	"description": "Node js typescript template with eslint, prettier, standard version, jest and vs code settings.",
+	"version": "0.0.0",
+	"main": "src/index.js",
+	"author": "Wunna",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mg-wunna/node-js-typescript-template.git"
+	},
+	"keywords": [
+		"NodeJs",
+		"Typescript",
+		"Template"
+	],
+	"scripts": {
+		"start": "node src/index.js",
+		"start:dev": "nodemon ."
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.22",
+		"ts-node": "^10.9.1"
+	}
+}
