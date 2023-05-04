@@ -1,0 +1,19 @@
+{
+	"header": "# Node js typescript template\n\nNode js typescript template with eslint, prettier, standard version, jest and vs code settings.\n",
+	"infile": "README.md",
+	"types": [
+		{ "type": "feat", "section": "🎸 A new feature" },
+		{ "type": "fix", "section": "🐛 A bug fix" },
+		{ "type": "chore", "section": "🤖 Build process or auxiliary tool changes" },
+		{ "type": "docs", "section": "✏️ Documentation only changes" },
+		{ "type": "perf", "section": "⚡️ A code change that improves performance" },
+		{ "type": "refactor", "section": "💡 A code change that neither fixes a bug or adds a feature" },
+		{ "type": "ci", "section": "🎡 CI related changes" },
+		{ "type": "style", "section": "💄 Markup, white-space, formatting, missing semi-colons..." },
+		{ "type": "test", "section": "💍 Adding missing tests" },
+		{ "type": "release", "section": "🏹 Create a release commit" }
+	],
+	"commitUrlFormat": "https://https://github.com/mg-wunna/node-js-typescript-template/commits/{{hash}}",
+	"compareUrlFormat": "https://https://github.com/mg-wunna/node-js-typescript-template/compare/{{previousTag}}...{{currentTag}}",
+	"releaseCommitMessageFormat": "release: version {{currentTag}}"
+}
