@@ -11,6 +11,7 @@
 		"sourceType": "module"
 	},
 	"plugins": ["@typescript-eslint", "prettier"],
+	"ignorePatterns": ["/node_modules", "/temp", "/build", "src/**/*.js"],
 	"rules": {
 		"prettier/prettier": "warn"
 	}

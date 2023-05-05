@@ -1,8 +1,0 @@
-# dependency packages
-/node_modules
-
-# tempory codes
-/temp
-
-# production codes
-/build
