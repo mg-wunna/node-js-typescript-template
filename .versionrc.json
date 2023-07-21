@@ -1,5 +1,5 @@
 {
-	"header": "# Node js typescript template\n\nNode js typescript template with eslint, prettier, standard version, jest and vs code settings.\n",
+	"header": "# Node js typescript template\n\nNode js application template using typescript.\n",
 	"infile": "README.md",
 	"types": [
 		{ "type": "feat", "section": "🎸 A new feature" },
