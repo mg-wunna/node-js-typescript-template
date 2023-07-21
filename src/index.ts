@@ -1,7 +1,5 @@
+import sayHello from './say-hello';
+
 const userName = 'Mg Wunna';
 
-function sayHello() {
-	console.log(`Hello ${userName}`);
-}
-
-sayHello();
+sayHello(userName);

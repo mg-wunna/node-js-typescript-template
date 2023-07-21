@@ -1,8 +1,12 @@
 # DEPENDENCY PACKAGES
 /node_modules
 
-# PRODUCTION CODES
+# JAVASCRIPT CODES
 /dist
+
+# PRODUCTION CODES
+/build
+production.zip
 
 # TEMPORY CODES
 /temp

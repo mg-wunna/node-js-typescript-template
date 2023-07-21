@@ -23,6 +23,7 @@
 		"release:minor": "standard-version --release-as minor --no-verify && git push --follow-tags && git push",
 		"release:patch": "standard-version --release-as patch --no-verify && git push --follow-tags && git push"
 	},
+	"dependencies": {},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^6.1.0",
 		"@typescript-eslint/parser": "^6.1.0",
