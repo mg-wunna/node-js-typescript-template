@@ -2,6 +2,13 @@
 
 Node js application template using typescript.
 
+### [1.0.3](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.2...v1.0.3) (2023-07-21)
+
+
+### 🎸 A new feature
+
+* add git remove old history after release ([1f2c7ea](https://https://github.com/mg-wunna/node-js-typescript-template/commits/1f2c7eaf265ddb4adf00b97210775b5ae6194555))
+
 ### 1.0.2 (2023-07-21)
 
 
