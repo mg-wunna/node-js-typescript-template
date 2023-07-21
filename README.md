@@ -2,6 +2,13 @@
 
 Node js application template using typescript.
 
+### [1.0.4](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.3...v1.0.4) (2023-07-21)
+
+
+### 🐛 A bug fix
+
+* git remove script not working error ([7e4fe30](https://https://github.com/mg-wunna/node-js-typescript-template/commits/7e4fe30abfe767f48b1283933e5301c4b3973d2b))
+
 ### [1.0.3](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.2...v1.0.3) (2023-07-21)
 
 
