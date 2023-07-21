@@ -2,6 +2,38 @@
 
 Node js application template using typescript.
 
+### 1.0.2 (2023-07-21)
+
+
+### 🎸 A new feature
+
+* building production codes and development config feature. ([c788b0a](https://https://github.com/mg-wunna/node-js-typescript-template/commits/c788b0a7914c0c6ecae4a98d39434d2cdd841309))
+* change log generating feature. ([e0ef1e4](https://https://github.com/mg-wunna/node-js-typescript-template/commits/e0ef1e4a01cb95f2076574b4d802b2963f4f476d))
+* lint testing with eslint and format files with prettier feature. ([8f30ec3](https://https://github.com/mg-wunna/node-js-typescript-template/commits/8f30ec38b4bd901f767a80d71f9ffd891b4345fc))
+* live reload and run typescript directly feature. ([3a14502](https://https://github.com/mg-wunna/node-js-typescript-template/commits/3a14502f5b3ad8592d573a502b1f413430c2ae86))
+
+
+### ⚡️ A code change that improves performance
+
+* improve development run time, lint checking and type checking ([84bf730](https://https://github.com/mg-wunna/node-js-typescript-template/commits/84bf730937cc573c097fbfbb47343304de7ca680))
+
+
+### 🏹 Create a release commit
+
+* version 1.0.0 ([49e16a1](https://https://github.com/mg-wunna/node-js-typescript-template/commits/49e16a1cd956c754e1c8bb55aaf34ad066701c4a))
+* version 1.0.1 ([bf4c8d3](https://https://github.com/mg-wunna/node-js-typescript-template/commits/bf4c8d3ab9a00d307f8894703c13ec0797dc9011))
+
+
+### 🤖 Build process or auxiliary tool changes
+
+* edit git ignore config ([b4a3b72](https://https://github.com/mg-wunna/node-js-typescript-template/commits/b4a3b7227ecc4ebba846daebdf2d99fc42d9c525))
+* update system configurations. ([a926d0d](https://https://github.com/mg-wunna/node-js-typescript-template/commits/a926d0d651a08050c83836032b7c7f3558c913cd))
+
+
+### 🎡 CI related changes
+
+* write auto build production code and zip for production server ([ed96053](https://https://github.com/mg-wunna/node-js-typescript-template/commits/ed960538739772b85988725b22929dae2e89a058))
+
 ### 1.0.1 (2023-07-21)
 
 ### 🎸 A new feature
