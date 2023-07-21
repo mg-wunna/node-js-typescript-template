@@ -19,9 +19,11 @@
 		"build": "npm run build:typescript && npm run build:production",
 		"build:typescript": "rm -rf dist && tsc",
 		"build:production": "sh .cicd.sh",
-		"release:major": "standard-version --release-as major --no-verify && git push --follow-tags && git push",
-		"release:minor": "standard-version --release-as minor --no-verify && git push --follow-tags && git push",
-		"release:patch": "standard-version --release-as patch --no-verify && git push --follow-tags && git push"
+		"release:major": "standard-version --release-as major --no-verify && npm run git:push && npm run git:remove",
+		"release:minor": "standard-version --release-as minor --no-verify && npm run git:push && npm run git:remove",
+		"release:patch": "standard-version --release-as patch --no-verify && npm run git:push && npm run git:remove",
+		"git:push": "git push --follow-tags && git push",
+		"git:remove": "git reflog expire --expire-unreachable=now --all && git gc --aggressive --prune=all"
 	},
 	"dependencies": {},
 	"devDependencies": {
