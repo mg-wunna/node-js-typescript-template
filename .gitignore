@@ -1,8 +1,11 @@
-# dependency packages
+# DEPENDENCY PACKAGES
 /node_modules
 
-# tempory codes
+# PRODUCTION CODES
+/dist
+
+# TEMPORY CODES
 /temp
 
-# production codes
-/build
+# SECRETS
+.env
