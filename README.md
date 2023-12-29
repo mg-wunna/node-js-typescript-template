@@ -2,6 +2,13 @@
 
 Node js application template using typescript.
 
+### [1.0.5](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.4...v1.0.5) (2023-12-29)
+
+
+### 🎡 CI related changes
+
+* 🎡 add install script ([2372b94](https://https://github.com/mg-wunna/node-js-typescript-template/commits/2372b941668f436e47b2f216b97aaba6bfd2f2f7))
+
 ### [1.0.4](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.3...v1.0.4) (2023-07-21)
 
 
