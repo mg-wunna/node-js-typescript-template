@@ -12,6 +12,9 @@ cd build
 npx json -I -f package.json -e 'delete this.devDependencies'
 npx json -I -f package.json -e 'this.scripts={ start: "node src/index.js" }'
 
+# install all require dependencies
+npm install
+
 # minify all files in dist folder
 npx minify-all-js . -j -m -M -a
 cd ../
