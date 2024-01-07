@@ -2,6 +2,16 @@
 
 Node js application template using typescript.
 
+### [1.0.6](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.5...v1.0.6) (2024-01-07)
+
+
+### 🤖 Build process or auxiliary tool changes
+
+* 🤖 change format script to make silent ([5499e8d](https://https://github.com/mg-wunna/node-js-typescript-template/commits/5499e8dfa79adcc899767b4d45a68756b35077aa))
+* 🤖 install and setup jest for testing ([bc5c430](https://https://github.com/mg-wunna/node-js-typescript-template/commits/bc5c430fb6a23dd96f26b7f605f0de324c279130))
+* 🤖 setup pre push git hook script ([9862d2b](https://https://github.com/mg-wunna/node-js-typescript-template/commits/9862d2ba1dadb89294cf337b8938da43ced70406))
+* 🤖 update pre commit and push script ([2fb3b7c](https://https://github.com/mg-wunna/node-js-typescript-template/commits/2fb3b7c9be63e1cba9b70a2bdb153d9e4b84a152))
+
 ### [1.0.5](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.4...v1.0.5) (2023-12-29)
 
 

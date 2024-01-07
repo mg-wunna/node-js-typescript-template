@@ -1,7 +1,7 @@
 {
 	"name": "node-js-typescript-template",
 	"description": "Node js application template using typescript.",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"main": "src/index.js",
 	"author": "Wunna",
 	"license": "MIT",
