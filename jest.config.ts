@@ -5,6 +5,7 @@ const config: Config = {
 	transform: {
 		'^.+\\.tsx?$': 'ts-jest',
 	},
+	modulePathIgnorePatterns: ['./dist', './build'],
 };
 
 export default config;

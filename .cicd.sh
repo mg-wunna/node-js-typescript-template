@@ -4,7 +4,7 @@
 rm -rf build && mkdir build
 
 # copy all file into build
-cp -r ./dist ./build/src
+cp -r ./dist/src ./build/src
 cp LICENSE README.md package.json ./build
 
 # change package json file
@@ -14,6 +14,12 @@ npx json -I -f package.json -e 'this.scripts={ start: "node src/index.js" }'
 
 # install all require dependencies
 npm install
+
+# testing all files
+npx jest
+
+# remove all test files
+find . -name "*.test.js" -type f -delete
 
 # minify all files in dist folder
 npx minify-all-js . -j -m -M -a
