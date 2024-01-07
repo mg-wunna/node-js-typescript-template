@@ -15,5 +15,5 @@
 	],
 	"commitUrlFormat": "https://https://github.com/mg-wunna/node-js-typescript-template/commits/{{hash}}",
 	"compareUrlFormat": "https://https://github.com/mg-wunna/node-js-typescript-template/compare/{{previousTag}}...{{currentTag}}",
-	"releaseCommitMessageFormat": "release: version {{currentTag}}"
+	"releaseCommitMessageFormat": "release: 🏹 version {{currentTag}}"
 }
