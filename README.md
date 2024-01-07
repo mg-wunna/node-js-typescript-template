@@ -2,6 +2,14 @@
 
 Node js application template using typescript.
 
+### [1.0.9](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.8...v1.0.9) (2024-01-07)
+
+
+### 🤖 Build process or auxiliary tool changes
+
+* 🤖 change cicd script and update jest config for ignore ([34224e2](https://https://github.com/mg-wunna/node-js-typescript-template/commits/34224e20afc76e380c32d97e5c2a6d4154fe48c0))
+* 🤖 update format script ([0b5873b](https://https://github.com/mg-wunna/node-js-typescript-template/commits/0b5873bed2076b977190481eb3e3a99218f9cf17))
+
 ### [1.0.8](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.7...v1.0.8) (2024-01-07)
 
 
