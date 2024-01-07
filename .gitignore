@@ -8,8 +8,11 @@
 /build
 production.zip
 
-# TEMPORY CODES
+# TEMPORARY CODES
 /temp
 
 # SECRETS
 .env
+
+# COVERAGE CODES
+/coverage
