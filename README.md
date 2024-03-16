@@ -2,6 +2,13 @@
 
 Node js application template using typescript.
 
+### [1.0.10](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.9...v1.0.10) (2024-03-16)
+
+
+### 🤖 Build process or auxiliary tool changes
+
+* 🤖 update dependencies and change npm into pnpm ([7a15927](https://https://github.com/mg-wunna/node-js-typescript-template/commits/7a15927153d15a569fb8aa185f1c46cae19247e3))
+
 ### [1.0.9](https://https://github.com/mg-wunna/node-js-typescript-template/compare/v1.0.8...v1.0.9) (2024-01-07)
 
 
